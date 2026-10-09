@@ -1,8 +1,20 @@
-import React from 'react'
+import Navbar from './Components/Navbar.jsx'
+import Hero from './Components/Hero.jsx'
+import About from './Components/About.jsx'
+import Services from './Components/Services.jsx'
+import Testi from './Components/Testi.jsx'
+import Footer from './Components/Footer.jsx'
 
 const App = () => {
   return (
-    <div>Atif Afsar</div>
+    <>
+      <Navbar />
+      <Hero />
+      <About />
+      <Services />
+      <Testi />
+      <Footer />
+    </>
   )
 }
 
