@@ -40,7 +40,7 @@ function Hero() {
             <h1 className="max-w-xl text-4xl font-semibold leading-[1.08] tracking-tight text-slate-950 sm:text-5xl lg:text-[3.5rem]">
               Find Your
               <br />
-              Perfect Tutor
+              Perfect Human
               <span aria-hidden="true" className="relative ml-2 inline-block text-blue-500">
                 <svg viewBox="0 0 42 38" className="absolute -right-8 -top-5 h-8 w-9">
                   <path
